@@ -13,7 +13,7 @@ Step-by-step guide to create a dual-boot system using Kali Linux and Windows 10.
 ## Step 2) Enter your BIOS/UEFI and change boot-order to give priority to USB or CD-DVD.
 
 ## Step 3) Download and burn your desired disk image to either USB or CD-DVD:
-1. Download Kali Linux Live image at https://www.kali.org/downloads/
+1. Download Kali Linux Live image at [Kali.org downloads page](https://www.kali.org/downloads/)
 2. Open your disk imaging software and select your USB or CD-DVD. Then select your disk image and burn image to medium.
 
 ## Step 4) Create partition for Kali Linux OS. 20 GB minimum. 
