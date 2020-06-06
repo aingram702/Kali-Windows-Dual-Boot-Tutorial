@@ -29,6 +29,9 @@ Step-by-step guide to create a dual-boot system using Kali Linux and Windows 10.
 ## Step 5) Install Kali-Linux.
 1. Insert USB drive or CD-DVD and reboot into the Kali Linux menu.
 2. Choose either **Install** or **Graphical install**.
-3) Follow basic install instructions described here [Hard-disk Install](https://www.kali.org/docs/installation/kali-linux-hard-disk-install/)
+3) Follow basic install instructions described here [Hard-disk Install](https://www.kali.org/docs/installation/kali-linux-hard-disk-install/) until you reach **Partition disks** section.
+4. Choose option labeled **Guided-use the largest continuous free space**. This will create necessary partitions in the free space you created in Step 4.
+5. Finish installation steps until completed. Once completed, safely remove installation medium, and reboot system. If done correctly you will be greeted with a GRUB boot menu that allows you to choose either Kali Linux or Windows 10. 
+6. Enjoy your new dual-boot system. 
 
 
