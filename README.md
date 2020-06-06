@@ -8,7 +8,7 @@ Step-by-step guide to create a dual-boot system using Kali Linux and Windows 10.
 - Disk imaging software like Etcher or Win32 Disk Imager
 - Non-PXE system
 
-## Step 1) Backup data incase of failure or mistake during this process.
+## Step 1) Backup data incase of failure, power outage, or a mistake during this process.
 
 ## Step 2) Enter your BIOS/UEFI and change boot-order to give priority to USB or CD-DVD.
 
