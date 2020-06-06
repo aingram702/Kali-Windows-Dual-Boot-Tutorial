@@ -11,6 +11,6 @@ Step-by-step guide to create a dual-boot system using Kali Linux and Windows 10.
 
 ## Step 1) Create Partition for 2nd OS. Depending on which OS you already have installed, some steps may vary. Easier to start with Windows.
 - If you currently have Windows installed follow these steps
-  1.
+  1. 
 
 
