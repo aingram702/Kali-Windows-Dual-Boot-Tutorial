@@ -35,3 +35,5 @@ Step-by-step guide to create a dual-boot system using Kali Linux and Windows 10.
 6. Enjoy your new dual-boot system. 
 
 
+## NOTE:
+- If you are starting out with a Kali Linux system the steps are basically the same except instead of using Windows Disk Management you will use GParted software included with Kali OS. **Also resize to leave 32 GB of free space instead of 20 GB as described above.**
